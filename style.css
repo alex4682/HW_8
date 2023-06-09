@@ -1,0 +1,46 @@
+.text-box+h3{
+    color: pink;
+}
+#greycol{
+    color: grey;
+}
+p:first-child{
+    color: red;
+}
+p:nth-last-of-type(2){
+    color: green;
+}
+.yellow{
+    color: yellow;
+}
+.first{
+    color: blanchedalmond;
+}
+.second{
+   background-color: blue;
+}
+.third{
+    color: aqua;}
+.fourth{
+    color:  saddlebrown;
+}
+.fivth{
+    background-color: plum;
+}
+.first:hover{
+    font-family: fantasy;
+}
+.second:hover{
+    font-size: 30px;
+}
+.third:hover{
+    background-color: brown;
+    font-size: 20px;
+}
+.fourth:hover{
+    padding: 25px;
+}
+.fivth:hover{
+     border-radius: 10px; 
+    border:5px solid black;
+}
