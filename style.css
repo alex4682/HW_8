@@ -44,6 +44,18 @@ p:nth-last-of-type(2){
      border-radius: 10px; 
     border:5px solid black;
 }
-.text-box:last-child{
-    color: brown;
+.j:last-child{
+    color: red;
+}
+.t:nth-child(2n){
+    color: green;
+}
+.td:nth-child(even){
+    background-color: orange;
+}
+.yn:nth-child(-n+2){
+    border: 5px solid red;
+}
+.fr:nth-child(odd){
+    font-size: 30px;
 }
