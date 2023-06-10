@@ -44,3 +44,6 @@ p:nth-last-of-type(2){
      border-radius: 10px; 
     border:5px solid black;
 }
+.text-box:last-child{
+    color: brown;
+}
